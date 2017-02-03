@@ -59,6 +59,10 @@ public class Ex2To6 {
         }
         */
         
+        // exercise 3
+        // Compare the time of calculation for 1 and 2
+        // ANSWER: calculation 1 takes O(2^n) and calculation 2 takes O(n)
+        
         // exercise 4 
         for (int i = 1; i <= 100; i++) {
             System.out.println("fibRatio of " + i + " = " + fibRatio(i));
