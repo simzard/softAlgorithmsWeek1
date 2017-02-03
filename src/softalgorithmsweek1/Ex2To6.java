@@ -13,7 +13,7 @@ import java.util.List;
  * @author simon
  */
 // 2. Make an algorithm calculating the Fibonacci numbers F(n) using an array
-public class Ex2 {
+public class Ex2To6 {
 
     public static int fib(int n) {
         // every time a number is computed,
